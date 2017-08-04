@@ -95,7 +95,7 @@ filesList = {"server.properties",
              "banned-ips.json",
              "banned-players.json",
              "ops.json",
-             "whitelist.json",
+             "white-list.json",
              "world"}
 
 #sync files down from the cloud to Heroku
