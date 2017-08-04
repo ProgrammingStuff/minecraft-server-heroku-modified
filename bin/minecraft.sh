@@ -4,7 +4,7 @@
 echo "server-port=25566" > /app/server.properties
 
 # Sync initial files
-ruby bin/sync.rb init
+python bin/sync.py init
 
 # Print logs to STDOUT
 touch server.log
